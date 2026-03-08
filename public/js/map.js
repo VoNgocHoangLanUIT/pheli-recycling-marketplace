@@ -1,7 +1,7 @@
 (function ($) {
     "use strict";
 
-    mapboxgl.accessToken = "pk.eyJ1IjoiaG9hbmdoYW5kbiIsImEiOiJjbTdsbTkydm8wZGpiMmxxcTdvdzVqbHd3In0.HUUli-jvI1ALTBuzSeKTpw";
+    mapboxgl.accessToken = "YOUR_MAPBOX_TOKEN";
 
     let map;
     let currentPopup;

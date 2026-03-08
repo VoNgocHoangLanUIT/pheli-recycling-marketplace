@@ -298,7 +298,7 @@
     console.log('=== INLINE MAP SCRIPT STARTING (EDIT) ===');
 
     // Mapbox Access Token
-    var mapboxAccessToken = 'pk.eyJ1IjoiaG9hbmdoYW5kbiIsImEiOiJjbTdsbTkydm8wZGpiMmxxcTdvdzVqbHd3In0.HUUli-jvI1ALTBuzSeKTpw';
+    var mapboxAccessToken = 'yourtoken';
 
     var map;
     var marker;

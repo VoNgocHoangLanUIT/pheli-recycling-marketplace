@@ -973,7 +973,7 @@
 <script src='https://api.mapbox.com/mapbox-gl-js/v2.15.0/mapbox-gl.js'></script>
 <script>
 // Mapbox Access Token - Same as posts index page
-mapboxgl.accessToken = 'pk.eyJ1IjoiaG9hbmdoYW5kbiIsImEiOiJjbTdsbTkydm8wZGpiMmxxcTdvdzVqbHd3In0.HUUli-jvI1ALTBuzSeKTpw';
+mapboxgl.accessToken = 'yourtoken';
 
 let map;
 let marker;
